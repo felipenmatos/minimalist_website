@@ -1,0 +1,240 @@
+.portfolio1 {
+    width: 1015px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 94px;
+    margin-left: 272px;
+}
+
+.div1 {
+    width: 540px;
+    height: 500px;
+
+    background-image: url("../assets/portfolio/manage/image-portfolio-manage.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.div2 {
+    width: 350px;
+    height: 500px;
+
+    border-width: 430px;
+    border: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style:double;
+
+    border-color:#33323D;
+}
+
+.div2 h1 {
+    margin-top: 103px;
+
+    font-weight: 700;
+    font-size: 45px;
+
+    color: #33323D;
+}
+
+.div2 p {
+    margin-top: 28px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+}
+
+.div2 button {
+    width: 204px;
+    height: 48px;
+    margin-top: 54px;
+    margin-right: 113px;
+    
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    
+    color: #33323D;
+    border-color: #33323D;
+
+    cursor: pointer;
+}
+
+.div3 {
+    width: 540px;
+    height: 500px;
+
+    background-image: url("../assets/portfolio/bookmark/image-portfolio-bookmark.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.div4 {
+    width: 350px;
+    height: 500px;
+
+    border-width: 430px;
+    border: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style:double;
+
+    border-color:#33323D;
+}
+
+.div4 h1 {
+    margin-top: 103px;
+
+    font-weight: 700;
+    font-size: 45px;
+
+    color: #33323D;
+}
+
+.div4 p {
+    margin-top: 28px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+}
+
+.div4 button{
+    width: 204px;
+    height: 48px;
+    margin-top: 54px;
+    margin-right: 113px;
+    
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    
+    color: #33323D;
+    border-color: #33323D;
+
+    cursor: pointer;
+}
+
+.div5 {
+    width: 540px;
+    height: 500px;
+
+    background-image: url("../assets/portfolio/insure/image-portfolio-insure.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.div6 {
+    width: 350px;
+    height: 500px;
+
+    border-width: 430px;
+    border: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style:double;
+
+    border-color:#33323D;
+}
+
+.div6 h1 {
+    margin-top: 103px;
+
+    font-weight: 700;
+    font-size: 45px;
+
+    color: #33323D;
+}
+
+.div6 p {
+    margin-top: 28px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+}
+
+.div6 button {
+    width: 204px;
+    height: 48px;
+    margin-top: 54px;
+    margin-right: 113px;
+    
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    
+    color: #33323D;
+    border-color: #33323D;
+
+    cursor: pointer;
+}
+
+.div7 {
+    width: 350px;
+    height: 500px;
+
+    border-width: 430px;
+    border: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style:double;
+
+    border-color:#33323D;
+}
+
+.div7 h1 {
+    margin-top: 103px;
+
+    font-weight: 700;
+    font-size: 45px;
+
+    color: #33323D;
+}
+
+.div7 p {
+    margin-top: 28px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+}
+
+.div7 button {
+    width: 204px;
+    height: 48px;
+    margin-top: 54px;
+    margin-right: 113px;
+    
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    
+    color: #33323D;
+    border-color: #33323D;
+
+    cursor: pointer;
+}
+
+.div8 {
+    width: 540px;
+    height: 500px;
+
+    background-image: url("../assets/portfolio/fylo/image-portfolio-fylo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.div-contato button {
+    margin-right: 70px;
+}

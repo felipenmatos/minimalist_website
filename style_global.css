@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+.slightly {
+    background-color: #5FB4A2;
+}
+
+.dark-blue {
+    background-color: #203A4C;
+}
+
+.grayish-dark {
+    background-color: #33323D;
+}
+
+.very-light {
+    background-color: #FAFAFA;
+}
+
+.light-grey {
+    background-color: #EAEAEB;
+}
+
+.a-color {
+    color: #33323D;
+}
+
+.ibarra {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.public-sans {
+    font-family: 'Public Sans', sans-serif;
+}
+
+header {
+    width: 1111px;
+    height: 32px;
+    margin-left: 250px;
+    margin-top: 64px;
+    margin-right: 130px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.links a{
+    margin-left: 42px;
+    text-decoration: none;
+
+    font-weight: 400;
+
+    color: #33323D;;
+}
+
+.links a b {
+    color:#5FB4A2;
+}
+
+.div-contato{
+    width: 1110px;
+    height: 84px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+
+.text-h1{
+    margin-top: -70px;
+    width: 367px;
+    height: 84px;
+    align-items: center;
+}
+
+.text-h1 h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+}
+
+.div-contato button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 168px;
+    height: 48px; 
+    
+    cursor: pointer;    
+}
+
+.div-contato button a{
+    font-family: 'Public Sans', sans-serif;
+    color: #33323D;
+
+    text-decoration: none;
+}
+
+footer {
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.footer1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 250px;
+}
+
+.footer1 a {
+    text-decoration: none;
+    margin-left: 30px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;        
+
+    color: #FFFFFF;
+}
+
+.footer1 nav {
+    margin-left: 48px;
+}
+
+.redesocial {
+    margin-left: 610px;
+}
+
+.redesocial a {
+    margin-left: 15px;
+}
+
+button .box1 {
+    background-color: #7b7a80;
+}

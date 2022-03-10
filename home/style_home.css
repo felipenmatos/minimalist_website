@@ -1,0 +1,156 @@
+.apresentacao {
+    display: flex;
+    width: 1110px;
+    height: 600px;
+    margin-top: 54px;
+    margin-left: 250px;
+
+    background-image: url("../assets/home/image-homepage-hero.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.apresentacao-text {
+    display: flex;
+    padding: 0px;
+    flex-direction: column;
+    width: 445px;
+    height: 357px;
+    display: flex;
+    margin-top: 243px;
+
+    background-color: #FAFAFA;
+}
+
+.apresentacao-text h1{
+    width: 390px;
+    height: 200px;
+    margin-left: 27px;
+    margin-top: 56px;
+    margin-bottom: 25px;
+
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.apresentacao-text button {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+    height: 48px;
+    margin-top: 28px;
+    margin-bottom: 0px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+
+    background-color: #203A4C;
+    color: #FFFFFF;
+
+    transition: background 1s;
+}
+
+.apresentacao-text button:hover, button:focus {
+    background-color: #585d61;
+}
+
+.apresentacao-text a {
+    text-decoration: none;
+}
+
+.sobre {
+    display: flex;
+    justify-content: space-between;
+    width: 1110px;
+    height: 601px;
+    margin-left: 250px;
+    margin-top: 149px;
+}
+
+.img-perfil {
+    display: flex;
+    width: 540px;
+    height: 600px;
+
+    background-image: url("../assets/home/image-homepage-profile.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.sobre-text {
+    width: 430px;
+    height: 600px;
+    
+    border-width: 430px;
+    border: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style:double;
+
+    border-color:#33323D;
+}
+
+.sobre-text h1 {
+    margin-top: 51px;
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    font-weight: 700;
+
+    color: #33323D;
+
+    animation: go-back 1s;
+}
+
+@keyframes go-back {
+    from {
+    transform: translateX(100px);
+    }
+    to {
+    transform: translateX(0);
+    }
+} 
+
+.sobre-text p {
+    margin-top: 28px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+
+    animation: go-back 1s;
+}
+
+@keyframes go-back {
+    from {
+    transform: translateX(100px);
+    }
+    to {
+    transform: translateX(0);
+    }
+} 
+
+.sobre-text button{
+    width: 204px;
+    height: 48px;
+    margin-top: 24px;
+    margin-left: 113px;
+    margin-right: 113px;
+    
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    
+    color: #33323D;
+    border-color: #33323D;
+
+    cursor: pointer;
+}
+
+
+
+
+

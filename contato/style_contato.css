@@ -1,0 +1,109 @@
+.contato-text {
+    width: 1110px;
+    height: 400px;
+
+    margin-top: 94px;
+    margin-left: 250px;
+
+    border-width: 430px;
+    border: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style:double;
+
+    border-color:#33323D;
+}
+
+.contato-text1 {
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.entrar-contato {
+    width: 350px;
+    height: 100%;
+}
+
+.entrar-contato h1 {
+    font-size: 40px;
+
+    color:#33323D;
+}
+
+.entrar-contato-text {
+    width: 635px;
+    height: 100%;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+}
+
+.icons {
+    margin-top: 120px;
+    margin-left: 465px;
+    margin-bottom: 0px;
+}
+
+.icons a {
+    margin-left: 15px;
+}
+
+.contato {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1110px;
+    height: 426px;
+    margin-top: 47px;
+    margin-left: 250px;
+}
+
+.text-contato h1 {
+    font-size: 40px;
+    color: #33323D;
+}
+
+.form {
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 635px;
+    height: 48px;
+    margin-top: 8px;
+}
+
+label {
+    margin-top: 7px;
+    
+    font-family: 'Public Sans', sans-serif;
+    font-size: 15px;
+
+    color:#33323D;
+}
+
+.input3 {
+    height: 96px;
+}
+
+.form button {
+    width:200px;
+    height: 48px;
+    margin-top: 24px;
+    background-color: #203A4C;
+    color: #FFFFFF;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 14px;
+    letter-spacing: 2px;
+}
+
